@@ -1,5 +1,5 @@
 import React , {useState, useEffect}from "react";
-import {uuid} from 'uuidv4';
+import { v4 as uuid} from 'uuid';
 import './App.css';
 import Header from "./Header";
 import AddContact from "./AddContact";
@@ -28,7 +28,8 @@ function App() {
   },[]);
 
   useEffect(() => {
-    localStorage.setItem(LOCAL_STORAGE_KEY,JSON.stringify(contacts));
+    if(contacts.length !==0 ) localStorage.setItem(LOCAL_STORAGE_KEY,JSON.stringify(contacts));
+    console.log(contacts);
   },[contacts]);
 
 
