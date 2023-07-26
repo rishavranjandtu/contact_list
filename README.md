@@ -1,6 +1,6 @@
 # Contact manager website using reactJS
+<img width="960" alt="Screenshot 2023-07-27 011954" src="https://github.com/rishavranjandtu/contact_list/assets/78717685/f0d39929-d748-4d80-8990-13af0999e4b0">
 
-![Screenshot (1)](https://github.com/rishavranjandtu/contact_list/assets/78717685/041f725c-5276-4055-b44f-38fdfdf93f02)
 
 
 # Getting Started with Create React App
