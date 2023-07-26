@@ -1,5 +1,6 @@
 # Contact manager website using reactJS
 
+![Screenshot (1)](https://github.com/rishavranjandtu/contact_list/assets/78717685/041f725c-5276-4055-b44f-38fdfdf93f02)
 
 
 # Getting Started with Create React App
